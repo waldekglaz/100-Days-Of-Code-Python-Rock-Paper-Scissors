@@ -1,6 +1,6 @@
 # 100 Days of Code: The Complete Python Pro Bootcamp for 2022
 
-This is a solution to the day 3 [Day 2 Challenge: Tip Calculator](https://www.udemy.com/course/100-days-of-code/).
+This is a solution to the day 3 [Day 3 Challenge: Rock, Paper, Scissors](https://www.udemy.com/course/100-days-of-code/).
 
 ## Table of contents
 
